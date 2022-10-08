@@ -15,6 +15,7 @@ public class val2 {
                 System.out.print("\t");
             }
             System.out.println();
+            System.out.println();
         }
     }
 }
