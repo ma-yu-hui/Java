@@ -17,6 +17,7 @@ public class val2 {
                 System.out.print(j);
             }
             System.out.println("myh");
+            System.out.println("ls");
         }
     }
 }
